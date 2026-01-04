@@ -2,4 +2,6 @@
 the sky is blue
 #write:feature change
 
+the sky is gray
+feature
 feature branch change
